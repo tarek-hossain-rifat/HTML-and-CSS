@@ -1,0 +1,19 @@
+
+.h1-tag {
+    color: blue;
+}
+
+.press-button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.press-button:hover {
+    opacity: 0.8;
+}
+.press-button:active {
+    opacity: 0.6;
+}
